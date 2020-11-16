@@ -5,4 +5,5 @@
 4.git commit
 5.git push
 6.pull request作る
+gitテスト
 
